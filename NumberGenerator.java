@@ -3,8 +3,8 @@ public class NumberGenerator {
 	private int endNum;
 
 	public NumberGenerator(int a, int b) {
-		this.startNum = startNum;
-		this.endNum = endNum;
+		this.startNum = a;
+		this.endNum = b;
 	}
 
 	public void generator() {
